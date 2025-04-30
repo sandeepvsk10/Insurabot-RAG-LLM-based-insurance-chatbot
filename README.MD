@@ -1,5 +1,10 @@
 # Meet InsuraBot - Your Intelligent Insurance Assistant leveraging 'RAG' (Retrieval-Augmented Generation) for the bot
 
+(Following Works in progress)
+- Deployment as a web app
+- Modules in Python
+
+
 ### Your trusted companion for all things insurance-related. Designed to streamline your insurance inquiries and policy needs, InsuraBot is here to simplify the complex world of insurance and provide personalized assistance just for you..
 
 ![insurabot_architecture](https://github.com/SandeepKamakaze/Insurabot/blob/main/insurabot_architecture.png?raw=true)
